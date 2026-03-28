@@ -1,10 +1,10 @@
 # Info
-HalFiPad is a fork.<br>
-仅在 iOS 14.5 的 iPhone 6s 上测试。<br>
-分离了原先的 dock round corner 和 app switcher round corner 设置。<br>
-去除了圆角为 5 的最低限制。<br>
-并尝试为修复 dock round corner 不生效的问题增加了一个 hook 点。<br>
-注：调整 app switcher round corner 会影响 dock round corner 的效果，请自行探索。
+* HalFiPad is a fork.
+* 仅在 iOS 14.5 的 iPhone 6s 上测试。
+* 分离了原先的 dock round corner 和 app switcher round corner 设置。
+* 去除了圆角为 5 的最低限制。
+* 并尝试为修复 dock round corner 不生效的问题增加了一个 hook 点。
+* 注：调整 app switcher round corner 会影响 dock round corner 的效果，请自行探索。
 # 使用方法：
 下载 release 中的 deb 文件并通过本地安装。
 # HalFiPad
